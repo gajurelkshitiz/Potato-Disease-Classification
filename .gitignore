@@ -1,0 +1,4 @@
+venv
+.vscode
+training/Dataset/
+saved_models/
